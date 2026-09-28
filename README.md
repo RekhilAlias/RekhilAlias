@@ -2,9 +2,9 @@
 
 **Senior Full-Stack Developer at Ortmor Agency** — I believe great web applications are the result of smart engineering, not just a large number of lines of code.
 
+🌐 Portfolio: [rekhil.netlify.app](https://rekhil.netlify.app/)  
+💼 LinkedIn: [rekhilaliaspaulose](https://www.linkedin.com/in/rekhilaliaspaulose)  
 📺 YouTube: [Code2bSmart](https://www.youtube.com/c/Code2bsmart)
-
-🌐 Portfolio: [rekhil.netlify.app](https://rekhil.netlify.app/)
 
 ---
 
@@ -42,6 +42,9 @@ A major part of my work is event tech: registration portals, immersive experienc
 <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
 <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
 <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
+<img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
+<img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
+<img alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
 <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
 <img alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
 <img alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
