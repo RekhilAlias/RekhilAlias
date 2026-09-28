@@ -3,6 +3,7 @@
 **Senior Full-Stack Developer at Ortmor Agency** — I believe great web applications are the result of smart engineering, not just a large number of lines of code.
 
 📺 YouTube: [Code2bSmart](https://www.youtube.com/c/Code2bsmart)
+
 🌐 Portfolio: [rekhil.netlify.app](https://rekhil.netlify.app/)
 
 ---
@@ -55,7 +56,7 @@ A major part of my work is event tech: registration portals, immersive experienc
 <img alt="Supabase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
 <img alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
 <img alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Shopify" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
+<img alt="Shopify" width="26px" src="https://cdn.simpleicons.org/shopify/7AB55C" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
 <img alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
 </p>
 
