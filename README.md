@@ -1,7 +1,7 @@
 # Hi there, I'm Rekhil Alias Paulose https://www.youtube.com/c/Code2bsmart
 
 
-### Connect with me : https://rekhilalias.netlify.app/
+### Connect with me : https://rekhil.netlify.app/
 
 
 ### Languages and Tools:
