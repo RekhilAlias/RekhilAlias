@@ -7,6 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rekhilaliaspaulose)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rekhilelias2014@gmail.com)
 
+<br/><br/>
+
+<a href="https://www.buymeacoffee.com/rekhileliaspaulose" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20chaya&emoji=%E2%98%95&slug=rekhileliaspaulose&button_colour=ffffff&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a chaya" height="50" /></a>
+
 > *"Great web applications aren't made up of hundreds of thousands of lines of code — they're made up of smart engineering."*
 
 ---
@@ -115,5 +119,5 @@ Open to technical collaborations, architectural consulting, and groundbreaking e
 
 <br/><br/>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="rekhileliaspaulose" data-color="#ffffff" data-emoji="☕"  data-font="Cookie" data-text="Buy me a chaya" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/rekhileliaspaulose" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20chaya&emoji=%E2%98%95&slug=rekhileliaspaulose&button_colour=ffffff&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a chaya" height="50" /></a>
 </div>
