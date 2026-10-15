@@ -5,8 +5,7 @@
 **Ortmor Agency** • GCC Region
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rekhilaliaspaulose)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RekhilAlias)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rekhilelias2014@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rekhilelias2014@gmail.com)
 
 > *"Great web applications aren't made up of hundreds of thousands of lines of code — they're made up of smart engineering."*
 
@@ -112,6 +111,5 @@ Over 5+ years of delivering mission-critical web applications and digital experi
 
 Open to technical collaborations, architectural consulting, and groundbreaking event tech & web applications.
 
-[📫 Get in Touch](mailto:rekhilelias2014@gmail.com) • [💼 Connect on LinkedIn](https://www.linkedin.com/in/rekhilaliaspaulose) • [🐙 View GitHub](https://github.com/RekhilAlias)
-
+[📫 rekhilelias2014@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rekhilelias2014@gmail.com) • [💼 Connect on LinkedIn](https://www.linkedin.com/in/rekhilaliaspaulose)
 </div>
