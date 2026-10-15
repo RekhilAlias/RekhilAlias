@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rekhilaliaspaulose)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rekhilelias2014@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/rekhileliaspaulose)
 
 > *"Great web applications aren't made up of hundreds of thousands of lines of code — they're made up of smart engineering."*
 
@@ -111,5 +112,5 @@ Over 5+ years of delivering mission-critical web applications and digital experi
 
 Open to technical collaborations, architectural consulting, and groundbreaking event tech & web applications.
 
-[📫 rekhilelias2014@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rekhilelias2014@gmail.com) • [💼 Connect on LinkedIn](https://www.linkedin.com/in/rekhilaliaspaulose)
+[📫 rekhilelias2014@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rekhilelias2014@gmail.com) • [💼 Connect on LinkedIn](https://www.linkedin.com/in/rekhilaliaspaulose) • [☕ Buy Me a Coffee](https://www.buymeacoffee.com/rekhileliaspaulose)
 </div>
