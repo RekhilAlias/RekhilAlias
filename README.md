@@ -1,20 +1,16 @@
 <div align="center">
 
 # Hi there, I'm Rekhil Alias Paulose 👋
-### Senior Full-Stack Developer & Solutions Architect
+### Senior Full-Stack Developer
 **Ortmor Agency** • GCC Region
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rekhilaliaspaulose)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rekhilelias2014@gmail.com)
-
-<br/><br/>
-
+<br/>
 <a href="https://www.buymeacoffee.com/rekhileliaspaulose" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20chaya&emoji=%E2%98%95&slug=rekhileliaspaulose&button_colour=ffffff&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a chaya" height="50" /></a>
 
 > *"Great web applications aren't made up of hundreds of thousands of lines of code — they're made up of smart engineering."*
-
 ---
-
 </div>
 
 ## 📌 Executive Summary
