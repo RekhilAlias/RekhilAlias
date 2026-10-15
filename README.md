@@ -1,74 +1,117 @@
+<div align="center">
+
 # Hi there, I'm Rekhil Alias Paulose 👋
+### Senior Full-Stack Developer & Solutions Architect
+**Ortmor Agency** • GCC Region
 
-**Senior Full-Stack Developer at Ortmor Agency** — I believe great web applications are the result of smart engineering, not just a large number of lines of code.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-🌐 Portfolio: [rekhil.netlify.app](https://rekhil.netlify.app/)  
-💼 LinkedIn: [rekhilaliaspaulose](https://www.linkedin.com/in/rekhilaliaspaulose)  
-📺 YouTube: [Code2bSmart](https://www.youtube.com/c/Code2bsmart)
-
----
-
-## 🚀 About Me
-
-For more than five years I have led and delivered enterprise-level web and interactive applications for government and private-sector clients across the GCC, including:
-
-**World Government Summit · Dubai Municipality · MOCCAE · Qiddiya · PDO · Toyota · Vodafone · FAB · Saudia Airlines**
-
-I take ownership of development teams on complex, tight-deadline projects: making architectural decisions, running code reviews, mentoring developers, communicating directly with clients, and providing production support.
-
-## 🎪 Event Technology
-
-A major part of my work is event tech: registration portals, immersive experiences, and interactive kiosks for large events such as **COMEX** and **GITEX**, where reliability on the day is everything.
-
-## 💪 SaaS Products
-
-- **GymStream** — a smart workout display and planning system for gyms.
-
-## 🛠️ What I Can Build
-
-- ⚡ Real-time synchronization
-- 🌍 Multi-language applications (Arabic RTL / English)
-- 🖐️ Touchscreen and IoT-integrated kiosk systems
-- 🤖 AI-powered features
-- 🧠 I also use AI tools in my workflow to solve harder business problems
+> *"Great web applications aren't made up of hundreds of thousands of lines of code — they're made up of smart engineering."*
 
 ---
 
-### Languages and Tools:
+</div>
 
-<p align="left">
-<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Socket.io" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-</p>
+## 📌 Executive Summary
 
-<p align="left">
-<img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Supabase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Shopify" width="26px" src="https://cdn.simpleicons.org/shopify/7AB55C" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-</p>
+I am a **Senior Full-Stack Developer** at **Ortmor Agency** with over **5 years** of hands-on experience architecting and delivering enterprise-level web applications, interactive experiential installations, and robust SaaS products. 
 
-<p align="left">
-<img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="DigitalOcean" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:15px;margin-top:10px;margin-bottom:10px;" />
-</p>
+My track record spans high-profile government entities and leading private enterprises across the **GCC**, including flagship projects for the **World Government Summit**, **Dubai Municipality**, **MOCCAE**, **Qiddiya**, **Petroleum Development Oman (PDO)**, **Toyota**, **Vodafone**, **First Abu Dhabi Bank (FAB)**, and **Saudia Airlines**.
+
+I specialize in leading cross-functional engineering teams through complex, mission-critical initiatives under tight delivery schedules. My core responsibilities encompass end-to-end technical leadership: defining scalable system architectures, conducting thorough code reviews, mentoring developers, communicating directly with client stakeholders, and ensuring seamless production deployment and support.
+
+---
+
+## ⚡ Core Specializations
+
+- 🎪 **High-Stakes Event Technology**: Developing high-concurrency event registration portals, real-time administrative dashboards, interactive touch kiosks, and gamified applications for premier exhibitions including **GITEX**, **COMEX**, and global leadership summits — where flawless real-time performance on event day is vital.
+- 🚀 **SaaS & Product Engineering**: Full-cycle architectural design and development of scalable cloud products, such as **GymStream** — an intelligent workout display and training planning system designed for gyms and fitness centers.
+- 🌐 **Bilingual & RTL Localization**: Deep expertise in bilingual applications featuring native Right-to-Left (Arabic RTL) and Left-to-Right (English LTR) user experience and layout orchestration.
+- 🖥️ **Interactive Hardware & IoT Integration**: Connecting touchscreen kiosks, IoT sensors, and hardware devices with cloud backends for low-latency, real-time synchronization.
+- 🤖 **AI-Driven Workflows & Smart Features**: Integrating cutting-edge AI tools and capabilities into development workflows and client applications to solve complex business challenges efficiently.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 💻 Frontend & State Architecture
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK%20Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Real-Time Sync
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases & BaaS
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ☁️ DevOps, Cloud & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🎨 CMS, E-Commerce & UI/UX Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+
+---
+
+## 🏛️ Enterprise & GCC Client Portfolio
+
+Over 5+ years of delivering mission-critical web applications and digital experiences for leading government entities and multinational corporations:
+
+| Government & Public Sector | Global & Regional Enterprises |
+| :--- | :--- |
+| 🏛️ **World Government Summit** | 🚗 **Toyota** |
+| 🏢 **Dubai Municipality** | 📱 **Vodafone** |
+| 🌿 **MOCCAE** (Ministry of Climate Change & Environment) | 🏦 **First Abu Dhabi Bank (FAB)** |
+| 🎪 **Qiddiya Investment Company** | ✈️ **Saudia Airlines** |
+| 🛢️ **Petroleum Development Oman (PDO)** | 💻 **GITEX & COMEX Expos** |
+
+---
+
+## 💼 Featured Engineering & Product Highlights
+
+### 🏋️‍♂️ [GymStream](#) — *Smart Workout Display & Planning System*
+- **Overview:** Intelligent digital signage and workout planning platform engineered specifically for fitness centers and commercial gym environments.
+- **Capabilities:** Real-time schedule synchronization, dynamic workout display engine, multi-screen management, and responsive administrative controls.
+
+### 🎪 Interactive Event Systems & Kiosks — *GITEX, COMEX & Global Summits*
+- **Overview:** Mission-critical event registration portals, attendee verification backends, and interactive touch-screen kiosks for high-traffic international expos.
+- **Capabilities:** Real-time data sync, bilingual English/Arabic RTL support, offline-resilient kiosk architecture, and IoT/hardware peripherals integration.
+
+---
+
+## 🎯 Leadership & Engineering Principles
+
+- **Smart Engineering Over Bloat:** Great applications come from thoughtful architecture, lean dependencies, and predictable state management — not endless lines of redundant code.
+- **Zero-Tolerance for Event-Day Downtime:** Live events allow zero room for error; platforms must be built with graceful fallbacks, offline resilience, and high concurrency in mind.
+- **Empowering Teams & Stakeholder Alignment:** Active code reviews, technical mentorship, and transparent client communication to turn complex briefs into robust deliverables.
+
+---
+
+<div align="center">
+
+### Let's Build Something Impactful Together 🚀
+
+Open to technical collaborations, architectural consulting, and groundbreaking event tech & web applications.
+
+[📫 Get in Touch](mailto:rekhil@example.com) • [💼 Connect on LinkedIn](https://linkedin.com/in/) • [🐙 View GitHub](https://github.com/)
+
+</div>
